@@ -17,4 +17,10 @@ This is a project that is detected to code for hand based mouse
     - this will control the motor driver and the sensors
         - sensor is basically of HC SRO4 with hand gesture sensor module
 
+# Parts used in the project
 
+- ESP32 CAM -> for taking in the feed using the camera
+- ESP32 -> To do the main working of the motors
+- ACEBOTT L293D Motor Driver Shield -> as a motor driver
+- LCD display -> for displaying content
+- Arduino -> To maintain the display
